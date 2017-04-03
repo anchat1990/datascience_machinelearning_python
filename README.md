@@ -7,7 +7,7 @@ Jupyter docs -->      http://jupyter-notebook.readthedocs.io/en/latest/security.
 - navigate to the notebook file "<something>.ipynb"
 - press run 
 
-Notes:
+## Notes:
 
 mean is average,
 median is mid point of frequency distribution
